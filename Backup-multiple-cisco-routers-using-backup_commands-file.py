@@ -4,7 +4,7 @@ from datetime import datetime
 import getpass
 import time
 import threading
-import logging
+#import logging
 
 
 start = time.time()
